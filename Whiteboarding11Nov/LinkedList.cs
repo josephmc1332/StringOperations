@@ -11,6 +11,7 @@ namespace Whiteboarding11Nov
         public Node next;
         public object data;
     }
+
     public class LinkedList
     {
         public Node head;
